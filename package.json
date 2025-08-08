@@ -4,7 +4,6 @@
   "type": "module",
   "version": "1.0.0",
   "description": "Model Context Protocol (MCP) Server",
-  "private": true,
   "scripts": {
     "start": "bun run src/index.ts",
     "build": "bun build src/index.ts --outdir build --target node",
