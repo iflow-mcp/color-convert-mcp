@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server",
+  "name": "@iflow-mcp/color-convert-mcp",
   "module": "src/index.ts",
   "type": "module",
   "version": "1.0.0",
@@ -30,5 +30,8 @@
     "culori": "^4.0.2",
     "fastmcp": "^1.21.0",
     "zod": "^3.24.2"
+  },
+  "bin": {
+    "color-convert-mcp": "./src/index.ts"
   }
 }
