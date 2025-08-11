@@ -2,7 +2,7 @@
   "name": "@iflow-mcp/color-convert-mcp",
   "module": "src/index.ts",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Model Context Protocol (MCP) Server",
   "scripts": {
     "start": "bun run src/index.ts",
